@@ -1,5 +1,0 @@
-101 Dinesh CSE GEC_Kishanganj
-102 Ganesh ECE GEC_Kishanganj
-103 Afsar AIML GEC_Kishanganj
-104 Krish IT GEC_Kishanganj
-105 Irfan IT GEC_Kishanganj
